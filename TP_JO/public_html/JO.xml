@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tableau SYSTEM "JO.dtd">
+<?xml-stylesheet href="JO.xsl" type="text/xsl" ?>
+
+<tableau>
+    <ligne>
+        <pays nomDePays="USA" />
+        <medaille TypeDeMedaille="OR">46</medaille>
+        <medaille TypeDeMedaille="ARGENT">37</medaille>
+        <medaille TypeDeMedaille="BRONZE">38</medaille>
+    </ligne>
+    <ligne>
+        <pays nomDePays="GRANDE-BRETAGNE"/>
+        <medaille TypeDeMedaille="OR">27</medaille>
+        <medaille TypeDeMedaille="ARGENT">23</medaille>   
+        <medaille TypeDeMedaille="BRONZE">17</medaille>
+    </ligne>
+    <ligne>
+        <pays nomDePays="CHINE"/>
+        <medaille TypeDeMedaille="OR">26</medaille>
+        <medaille TypeDeMedaille="ARGENT">18</medaille>
+        <medaille TypeDeMedaille="BRONZE">26</medaille>
+    </ligne>
+    <ligne>
+        <pays nomDePays="RUSSIE"/>
+        <medaille TypeDeMedaille="OR">19</medaille>
+        <medaille TypeDeMedaille="ARGENT">18</medaille>
+        <medaille TypeDeMedaille="BRONZE">19</medaille>
+    </ligne>
+    <ligne>
+        <pays nomDePays="ALLEMAGNE"/>
+        <medaille TypeDeMedaille="OR">17</medaille>
+        <medaille TypeDeMedaille="ARGENT">10</medaille>
+        <medaille TypeDeMedaille="BRONZE">15</medaille>
+    </ligne>
+    <ligne>
+        <pays nomDePays="JAPON"/>
+        <medaille TypeDeMedaille="OR">12</medaille>
+        <medaille TypeDeMedaille="ARGENT">8</medaille>
+        <medaille TypeDeMedaille="BRONZE">21</medaille> 
+    </ligne>
+    <ligne>
+        <pays nomDePays="FRANCE"/>
+        <medaille TypeDeMedaille="OR">10</medaille>
+        <medaille TypeDeMedaille="ARGENT">18</medaille>
+        <medaille TypeDeMedaille="BRONZE">14</medaille> 
+    </ligne>
+    
+</tableau>

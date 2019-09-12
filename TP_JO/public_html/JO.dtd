@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT tableau (ligne+)>
+<!ELEMENT ligne (pays, medaille, medaille, medaille, totalmedaille?)>
+
+<!ATTLIST pays nomDePays (USA|GRANDE-BRETAGNE|CHINE|RUSSIE|ALLEMAGNE|JAPON|FRANCE|COREE-DU-SUD|ITALIE|AUSTRALIE) #REQUIRED>
+<!ATTLIST medaille TypeDeMedaille (OR|ARGENT|BRONZE) #REQUIRED>
+
+<!ELEMENT pays (#PCDATA)>
+<!ELEMENT medaille (#PCDATA)>
+<!ELEMENT totalmedaille (#PCDATA)>
