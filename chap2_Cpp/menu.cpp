@@ -1,4 +1,19 @@
+
+/**
+  *@file menu.cpp
+  * @brief Implémentation de la classe Menu
+  *
+  *
+  *
+  */
+
 #include "menu.h"
+
+/**
+ * @brief Menu::Menu
+ * @details Constructeur de la classe Menu, ouvre le fichier demandé, réalise le test d'erreur et initialise les options.
+ * @param _nom
+ */
 
 Menu::Menu(const std::string &_nom):nom(_nom), longueurMax(0)
 {
@@ -25,6 +40,12 @@ Menu::Menu(const std::string &_nom):nom(_nom), longueurMax(0)
         }
     }
 }
+
+/**
+ * @brief Menu::Afficher
+ * @details Affiche le fichier demandé, créé le tableau et ses contours, affiche le nombre de posibilité d'options.
+ * @return
+ */
 
 int Menu::Afficher()
 {
@@ -54,6 +75,12 @@ int Menu::Afficher()
     return choix;
 }
 
+/**
+ * @brief Menu::AttendreAppuiTouche
+ * @abstract Methode statique pour attendre l'appui sur une touche du clavier.
+ *          le buffer d'entrée est vidé, l'écran est éffacé après l'action sur le clavier.
+ */
+
 void Menu::AttendreAppuiTouche()
 {
     string uneChaine;
@@ -62,6 +89,11 @@ void Menu::AttendreAppuiTouche()
     cin.ignore(numeric_limits<streamsize>::max(),'\n');
     system("clear");
 }
+
+/**
+ * @brief Menu::~Menu
+ * @details Destructeur de la classe Menu
+ */
 
 Menu::~Menu()
 {
