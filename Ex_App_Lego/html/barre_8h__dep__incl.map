@@ -1,0 +1,12 @@
+<map id="barre.h" name="barre.h">
+<area shape="rect" id="node2" href="$barre_8cpp.html" title="implémentation de la classe Barre " alt="" coords="5,80,81,107"/>
+<area shape="rect" id="node3" href="$barrecarre_8h.html" title="Définition de la classe BarreCarre. " alt="" coords="106,80,197,107"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="main.cpp" alt="" coords="181,155,255,181"/>
+<area shape="rect" id="node6" href="$barrecarree_8h.html" title="barrecarree.h" alt="" coords="559,80,658,107"/>
+<area shape="rect" id="node8" href="$barrerectangle_8h.html" title="Définition de la classe BarreRectangle. " alt="" coords="271,80,386,107"/>
+<area shape="rect" id="node10" href="$barreronde_8h.html" title="Définition de la classe BarreRonde. " alt="" coords="411,80,505,107"/>
+<area shape="rect" id="node4" href="$barrecarre_8cpp.html" title="implémentation de la classe BarreCarre " alt="" coords="52,155,157,181"/>
+<area shape="rect" id="node7" href="$barrecarree_8cpp.html" title="barrecarree.cpp" alt="" coords="566,155,678,181"/>
+<area shape="rect" id="node9" href="$barrerectangle_8cpp.html" title="implémentation de la classe BarreRectangle " alt="" coords="280,155,409,181"/>
+<area shape="rect" id="node11" href="$barreronde_8cpp.html" title="implémentation de la classe BarreRonde " alt="" coords="433,155,541,181"/>
+</map>

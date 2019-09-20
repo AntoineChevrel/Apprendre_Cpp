@@ -5,13 +5,13 @@ CONFIG -= qt
 
 SOURCES += \
         barre.cpp \
-        barrecarree.cpp \
+        barrecarre.cpp \
         barrerectangle.cpp \
         barreronde.cpp \
         main.cpp
 
 HEADERS += \
     barre.h \
-    barrecarree.h \
+    barrecarre.h \
     barrerectangle.h \
     barreronde.h

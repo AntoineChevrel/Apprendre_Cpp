@@ -1,0 +1,6 @@
+<map id="Barre" name="Barre">
+<area shape="rect" id="node2" href="$class_barre_carre.html" title="{BarreCarre\n||+ BarreCarre()\l+ CalculerSection()\l+ CalculerMasse()\l+ ~BarreCarre()\l}" alt="" coords="5,204,140,325"/>
+<area shape="rect" id="node3" href="$class_barre_carree.html" title="{BarreCarree\n||+ BarreCarree()\l}" alt="" coords="165,226,277,303"/>
+<area shape="rect" id="node4" href="$class_barre_rectangle.html" title="{BarreRectangle\n|&#45; largeur\l|+ BarreRectangle()\l+ CalculerSection()\l+ CalculerMasse()\l+ ~BarreRectangle()\l}" alt="" coords="301,204,441,325"/>
+<area shape="rect" id="node5" href="$class_barre_ronde.html" title="{BarreRonde\n|&#45; diametre\l|+ BarreRonde()\l+ CalculerSection()\l+ CalculerMasse()\l+ ~BarreRonde()\l}" alt="" coords="465,204,600,325"/>
+</map>
